@@ -5,7 +5,7 @@
     </a>
   </div>
 <h1>
-  James Stuart - Data & Business Analyst
+  James Stuart - Data & Systems Analyst
 </h1>
 
 - 12 years of document production experience in the financial technology sector, with a track record of fostering close B2B relationships with stakeholders at all levels.
